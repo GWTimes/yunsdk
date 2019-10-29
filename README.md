@@ -25,7 +25,8 @@ SDK 是深圳市技威时代科技有限公司研发的基于Cloudlink™ P2P的
 
 # 架构
 架构图如下：
-![架构图](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/cac014f673e8ec536fae438320d7204dd453e59b81fd86145fb6d2121e61860c93b84fcab52b2d0f65d0b1a5dc2ab63f?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
+----
+![架构图-w800](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/cac014f673e8ec536fae438320d7204dd453e59b81fd86145fb6d2121e61860c93b84fcab52b2d0f65d0b1a5dc2ab63f?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
 
 # 平台支持
 具体平台支持情况如下表所示：

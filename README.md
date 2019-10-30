@@ -1,5 +1,5 @@
 # 简介
-SDK 是深圳市技威时代科技有限公司研发的基于Cloudlink™ P2P的智能家居平台工具集。SDK将监控、录像、回放、设备控制、设备通讯、设备报警等功能进行简单封装，方便合作伙伴集成。 
+IotVideoSDK是基于Cloudlink™ P2P的智能家居平台工具集。SDK将监控、录像、回放、设备控制、设备通讯、设备报警等功能进行简单封装，方便合作伙伴集成。 
 
 # 功能概述
 
@@ -26,7 +26,7 @@ SDK 是深圳市技威时代科技有限公司研发的基于Cloudlink™ P2P的
 # 架构
 架构图如下：
 ----
-![架构图-w800](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/cac014f673e8ec536fae438320d7204dd453e59b81fd86145fb6d2121e61860c93b84fcab52b2d0f65d0b1a5dc2ab63f?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
+![架构图-w750](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/460ae626988aca93820bcd50fab9f4d7bbcb87cb45a5316155f0f9695f32cad464a241033fb9052e5a314f8dc281c526?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
 
 # 平台支持
 具体平台支持情况如下表所示：

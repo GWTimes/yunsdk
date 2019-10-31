@@ -30,7 +30,7 @@ IotVideoSDK是基于Cloudlink™ P2P的智能家居平台工具集。SDK将监�
 # 架构
 架构图如下：
 ----
-![架构图-w750](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/460ae626988aca93820bcd50fab9f4d7bbcb87cb45a5316155f0f9695f32cad464a241033fb9052e5a314f8dc281c526?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
+![架构图-w750](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/689f9c6e7e9442ea608a5378ac93311cc02f7dd4d8eb07e49781bc560082dc790924ecc9ae18b7ef2998a054ef3db086?pictype=scale&from=30113&version=3.3.3.3&uin=824538183&fname=%E6%8A%80%E5%A8%81P2PSDK%E6%A1%86%E6%9E%B6.png&size=750)
 
 # 平台支持
 具体平台支持情况如下表所示：
